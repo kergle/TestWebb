@@ -7,4 +7,29 @@ and open the template in the editor.
     Created on : 3 Mar 2021, 00:26:36
     Author     : katrina
 */
+h2{
+    color:cyan;
+    text-align: center;
+    text-decoration:activeborder;
+}
+body{
+    background-image :url("../images/bckgr.jpeg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: serif;
+}
 
+caption{
+    font-weight: 650;
+    border: 3xp blue;
+}
+
+table, th, td{
+    border:3xp blue ;
+    border-collapse: collapse;
+   
+}
+.center{
+    text-align: center;
+}
