@@ -8,9 +8,10 @@ and open the template in the editor.
     Author     : katrina
 */
 h2{
-    color:cyan;
+    color:black;
     text-align: center;
     text-decoration:activeborder;
+    font-size: 30px;
 }
 body{
     background-image :url("bckgr.jpeg");
@@ -22,11 +23,11 @@ body{
 
 caption{
     font-weight: 650;
-    border: 3xp blue;
+    border: 3px blue;
 }
 
 table, th, td{
-    border:3xp blue ;
+    border:3px blue ;
     border-collapse: collapse;
    
 }
