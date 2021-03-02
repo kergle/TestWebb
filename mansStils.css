@@ -13,7 +13,7 @@ h2{
     text-decoration:activeborder;
 }
 body{
-    background-image :url("../images/bckgr.jpeg");
+    background-image :url("/bckgr.jpeg");
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
